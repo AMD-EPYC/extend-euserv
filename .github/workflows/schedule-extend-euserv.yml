@@ -32,4 +32,4 @@ jobs:
           poetry run python -m extend_euserv -s
           # -d show debug messages
           # -s turn on short delay (sleepon)
-          # -i info only (no attempt to extend)
+          # -i info only (no attempt to extend) 
